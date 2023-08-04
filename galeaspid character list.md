@@ -123,7 +123,11 @@ crescent.
 
 58. Ratio between pre-pineal length and post-pineal length in mid-line of cephalic shield larger than 1.0: (0) no; (1) yes.
 
-59. Preorbital commissure：(0) absent; (1) present.60. Ventrally curved branchial fossae: (0) absent; (1) present.61. Ventral rim of head-shield: (0) absent; (1) present.
+59. Preorbital commissure：(0) absent; (1) present.
+
+60. Ventrally curved branchial fossae: (0) absent; (1) present.
+
+61. Ventral rim of head-shield: (0) absent; (1) present.
 
 62. Sickle-like complex of cornual and inner cornual processes (the angle of the cornual and inner cornual processes is equal to or more than 90 degrees): (0) absent; (1) present.
 
