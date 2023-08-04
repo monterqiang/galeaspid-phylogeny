@@ -103,7 +103,7 @@ crescent.
 
 48. Elongated branchial region: (0) absent; (1) present.
 
-49. Number of branchial fossae: (0) 5~7 pairs; (1) 9~17 pairs; (2) more than 20 pairs.
+49. Number of branchial fossae: (0) 5-7 pairs; (1) 9-17 pairs; (2) more than 20 pairs.
 
 50. Maximum width of headshield placed: (0) posteriorly; (1) medially.
 
@@ -123,11 +123,7 @@ crescent.
 
 58. Ratio between pre-pineal length and post-pineal length in mid-line of cephalic shield larger than 1.0: (0) no; (1) yes.
 
-59. Preorbital commissure：(0) absent; (1) present.
-
-60. Ventrally curved branchial fossae: (0) absent; (1) present.
-
-61. Ventral rim of head-shield: (0) absent; (1) present.
+59. Preorbital commissure：(0) absent; (1) present.60. Ventrally curved branchial fossae: (0) absent; (1) present.61. Ventral rim of head-shield: (0) absent; (1) present.
 
 62. Sickle-like complex of cornual and inner cornual processes (the angle of the cornual and inner cornual processes is equal to or more than 90 degrees): (0) absent; (1) present.
 
