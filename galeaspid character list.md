@@ -117,7 +117,7 @@ crescent.
 
 55. Unclosed rostral margin: (0) present; (1) absent.
 
-56. Ornamentation of head-shield: (0) star-shaped tubercles; (1) tiny granular tubercles; (2) coarse granular tubercles；(3) polygon-shaped tubercles;(4) central big tubercles surronded by radially arranged tubercles.
+56. Ornamentation of head-shield: (0) star-shaped tubercles; (1) tiny granular tubercles; (2) coarse granular tubercles；(3) polygon-shaped tubercles; (4) central big tubercles surrounded by radially arranged tubercles.
 
 57. Pineal organ: (0) on front of or level with posterior margin of orbital opening; (1) behind posterior margin of orbital opening.
 
@@ -127,7 +127,7 @@ crescent.
 
 60. Ventrally curved branchial fossae: (0) absent; (1) present.
 
-61. Ventral rim of head-shield: (0) absent; (1) present.
+61. Ventral rim of headshield: (0) absent; (1) present.
 
 62. Sickle-like complex of cornual and inner cornual processes (the angle of the cornual and inner cornual processes is equal to or more than 90 degrees): (0) absent; (1) present.
 
