@@ -1,16 +1,16 @@
-##Character list of galeaspids and comments##
+**Character list of galeaspids and comments**
 
 [1] Median dorsal opening: (0) absent; (1) present.
 
-> Source references added.
+> Source references to be added.
 
 [2] Festooned pattern of sensory canals on dorsal surface of headshield: (0) absent; (1) present.
 
-> Source references added.
+> Source references to be added.
 
 [3] Aspidine tubercles: (0) absent; (1) present.
 
-> Source references added.
+> Source references to be added.
 
 [4] Shape of headshield: (0) trapezoid-like; (1) triangular-like; (2) oval-like; (3) armet-like; (4) fork-like.
 
