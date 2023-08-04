@@ -1,10 +1,10 @@
 **Character list of galeaspids and comments**
 
-[1] Median dorsal opening: (0) absent; (1) present.
+1. Median dorsal opening: (0) absent; (1) present.
 
 > Source references to be added.
 
-[2] Festooned pattern of sensory canals on dorsal surface of headshield: (0) absent; (1) present.
+2. Festooned pattern of sensory canals on dorsal surface of headshield: (0) absent; (1) present.
 
 > Source references to be added.
 
