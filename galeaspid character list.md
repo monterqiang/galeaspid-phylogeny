@@ -1,5 +1,7 @@
 **Character list of galeaspids and comments**
 
+> *Characters and character states to be added in the nexus file. (To Shan and Chen)* 
+
 1. Median dorsal opening: (0) absent; (1) present.
 
 > Source references to be added.
