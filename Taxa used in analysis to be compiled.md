@@ -16,6 +16,25 @@
 
 *Wenshanaspis zhichangensis*, Pragian (Zhao et al., 2002)
 
+*Hanyangaspis guodingshanensis*, Telychian (Pan and liu, 1975)
+
+*Dayongaspis hunanensis*, Telychian (Pan and Zeng, 1985)
+
+*Changxingaspis gui*, Telychian (Wang, 1991)
+
+*Sinogaleaspis shankouensis*, Telychian (Pan and Wang, 1980)
+
+*Rumporostralis xikengensis*, Telychian (Shan et al., 2020)
+
+*Shuyu Zhejiangensis* , Telychian (Gai et al., 2011)
+
+ *Meishanaspis lehmani*, Telychian (Wang, 1991)
+
+ *Anjiaspis reticularis*,  Telychian (Gai and Zhu, 2005)
+
+ *Yunnanogaleaspis major*, Lochkovian (Pan and Wang, 1980)
+
+
 **References**
 
 Gai, Z.-K., Donoghue, P. C. J., Zhu, M., Janvier, P. and Stampanoni, M., 2011. Fossil jawless fish from China foreshadows early jawed vertebrate anatomy. *Nature* **476**: 324–327.
